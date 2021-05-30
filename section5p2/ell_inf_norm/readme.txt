@@ -1,5 +1,5 @@
 Copyright (C) Yoshihiro Kanno, 2021
 
-Y. Kanno: ``Structural reliability under uncertainty in moments: distributionally-robust reliability-based design optimization.'' Submitted to {\em Structural and Multidisciplinary Optimization\/}.
+Y. Kanno: ``Structural reliability under uncertainty in moments: distributionally-robust reliability-based design optimization.'' Submitted to {\em Japan Journal of Industrial and Applied Mathematics\/}.
 
 The codes can run on Matlab ver.9.8 with SeDuMi ver.1.3 and CVX ver.2.2. Run "opt_design.m" to solve the optimization problems handled in section 5.2 of the article. 
